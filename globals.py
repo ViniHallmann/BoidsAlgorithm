@@ -1,0 +1,6 @@
+WIDTH:  int = 800
+HEIGHT: int = 600
+FPS:    int = 120
+
+NUMBER_OF_POINTS:   int = 50
+DISTANCE_THRESHOLD: int = 15
