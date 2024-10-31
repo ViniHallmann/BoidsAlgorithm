@@ -1,5 +1,7 @@
 # **Boids Algortihm In Python**
 
+![Vai assister a primeira temporada de True Detective](birds_true_detective.gif)
+
 Estava procurando por algum projeto para fazer em Python achei alguns assuntos sobre Boids, e como recentemente tenho dado preferência por projetos visualmentes apelativos esse aqui não foi diferente. 
 
 ### **Referências:** 
