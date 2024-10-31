@@ -2,5 +2,7 @@ WIDTH:  int = 800
 HEIGHT: int = 600
 FPS:    int = 120
 
-NUMBER_OF_POINTS:   int = 50
+NUMBER_OF_POINTS:   int = 60
 DISTANCE_THRESHOLD: int = 15
+
+BACKGROUND_COLOR:  tuple = (13, 17, 23)
